@@ -1,0 +1,4 @@
+quizName,totalScore,passingPercentage,question1,question2,question3
+Demo quiz 1,18,75,"Demo quiz 1, question 1","Demo quiz 1, question 2","Demo quiz 1, question 1"
+Demo quiz with some longer name,0,0,"Demo quiz 2, question 2","Demo quiz 1, question 3","Demo quiz 1, question 2"
+Demo quiz to check special chars %$,90,90,"Demo quiz 3, question 3","Demo quiz 1, question 4","Demo quiz 1, question 3"
